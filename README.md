@@ -5,4 +5,4 @@ If you're planning to embed one of the games here, you're going to have to serve
 ## Update log
 | Update date | Description |
 | ----------- | ----------- |
-| 2/26/2024   | ReadMe added |
+| 2/26/2024   | added readme |
